@@ -1,0 +1,33 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h1 {
+    color: #a98343;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
+
+h2 {
+    color: #866835; 
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;   
+}
+
+#messageButton {
+    margin-top: 3rem;
+    color: #403119;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 0.9rem;
+}
+#rMessage {
+    margin-top: 3rem;
+    background-color: #dac6a4;
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    font-weight: 400; 
+}
+
